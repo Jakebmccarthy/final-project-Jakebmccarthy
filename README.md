@@ -2,8 +2,15 @@
 # Final Project - Online Marketplace - Jake McCarthy
 
 ## Intro
-I've placed **Bolded Points** throughout the documentation to mark the questions asked in the rubric to make this grading easier. 
-
+Apologies but due to time constraints front end is not currently functioning
+Backend can still be tested the standard way using ganache 
+```truffle compile```
+````truffle test```
+```truffle migrate``` 
+Other wise use:
+```truffle develop```
+```compile```
+```test```
 
 ## Description
 This project takes the 2nd use case (Online Marketplace) outlined in the Final Project Specifications sheet.  
@@ -38,14 +45,13 @@ Test can be found in the file ```./test/online_marketplace.test.js ```
 
 ## Avoiding Common Attacks
 can be found in file labeled ```avoiding_common_attacks.md```
-open file
+![Alt test](avoiding_common_attacks.md)
 
 ## Deployed Addresses
 can be found in file labeled ```deployed_addresses.md```
-open file
+![Alt test](deployed_addresses.md)
 
 ## Design Pattern Decisions
-can be found in file labeled ```design_pattern_decisions```
-open file
-
+can be found in file labeled ```design_pattern_decisions.md```
+![Alt test](design_pattern_decisions.md)
 
